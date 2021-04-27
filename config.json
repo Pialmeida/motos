@@ -1,0 +1,14 @@
+{
+	"UI": {
+		"LOG_LENGTH": 15,
+		"REFRESH_TIME": 300,
+		"UI_WIDTH": 852,
+		"UI_HEIGHT": 480
+	},
+	"PATH": {
+		"DATA": "D:\\Personal Projects\\motos\\data\\data.db"
+	},
+	"WEBSCRAPE": {
+		"STATES": "MG,SP"
+	}
+}
